@@ -1,0 +1,152 @@
+body {
+	background-color: transparent;
+	font-family: Arial;
+	text-align: center;
+	font-size: 16px;
+	line-height:1.5em;
+}
+
+a.name{
+	text-align: center;
+}
+
+div.header{
+	position: fixed;
+	background: linear-gradient(
+    to left,
+    #85C1E9	,
+    #1B2631);
+	width:100%;
+	top: 0px;
+	left: 0px;
+}
+
+
+h2{
+	text-decoration: underline;
+	padding-bottom:-10px;
+}
+
+p.description{
+	margin-left:100px;
+	margin-right: 100px;
+ 	padding-bottom:50px;
+	margin-top: 3px;
+}
+
+a{
+	color:blue;
+}
+a:hover{
+	color:#000000;
+}
+
+li{
+	list-style-type:none;
+	padding:0;
+	margin: 0;
+	text-indent:-40px;
+}
+
+p.summary{
+	margin-right:5px;
+    text-align:left; 
+}
+
+
+p.projectName{
+	margin-bottom: 2px;
+	font-size: 16px;
+	font-style: oblique;
+	text-decoration: underline;
+}
+
+p.intro{
+	font-size: 55px;
+	line-height: 50px;
+	text-align: left;
+	text-transform: capitalize;
+}
+
+h2.titleP{
+	margin-bottom: 0px; 
+	padding-top: 20px;
+}
+
+p.ocad{
+	text-align: left;
+	font-size: 20px;
+}
+
+table, th, td {
+	border: none;
+}
+#table{
+	margin:auto;
+	width:auto;
+	padding-top:20px;
+}
+td{
+	width: 350px;
+}
+
+table.headT{
+	color:white;
+	margin:auto;
+	width:auto;
+	margin-top: -20px;
+}
+
+td.headA{
+	width:350px;
+}
+
+a.assignment{
+	color:white;
+	text-decoration: none;
+}
+
+div.bar{
+		background: linear-gradient(
+    to left,
+    #85C1E9	,
+    #1B2631);
+	padding-top: 100px;
+	padding-bottom: 3px;
+	width: 100%;
+	left:0px;
+}
+
+a.assignment:hover{
+	color:black;
+}
+
+div.footer{
+	background:#CACACA;
+	width:100%;
+	margin-bottom:-10px;
+	margin-left: -10px;
+	padding-right:20px;
+}
+
+p.pdfD{
+	color:#000;
+	margin-bottom:0px;
+	padding-top:10px;
+}
+
+a.pdf{
+	color:#000;
+}
+
+p.youtube{
+	margin-left:100px;
+	margin-right: 100px;
+ 	padding-bottom:0px;
+	margin-bottom:2px;
+	margin-top: 3px;
+}
+
+a.pdf:hover{
+	color:#fff;
+}
